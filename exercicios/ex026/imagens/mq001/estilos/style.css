@@ -1,3 +1,25 @@
 @charset "UTF-8";
 
 /*Estilo para telas*/
+
+html {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(207, 207, 207);
+}
+
+header{
+    background-color: beige;
+    padding: 10px;
+}
+
+header h1 {
+    text-align: center;
+    
+}
+footer{
+    display: none;
+    
+}
